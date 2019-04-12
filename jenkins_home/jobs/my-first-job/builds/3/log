@@ -1,0 +1,9 @@
+Started by user [8mha:////4Phl2o+zqGSFWc+QNm+K+mRTO3saKe2KIgQpoiegUWxFAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0msanku
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins8612473596977257973.sh
++ NAME=SankuSinha
++ date
++ echo Hello. SankuSinha, the date time is Fri Apr 12 11:42:16 UTC 2019
+Hello. SankuSinha, the date time is Fri Apr 12 11:42:16 UTC 2019
+Finished: SUCCESS
