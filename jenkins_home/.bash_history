@@ -35,3 +35,14 @@ cat /tmp/scripts.sh
 /tmp/scripts.sh 
 /tmp/scripts.sh sanku sinha true
 exit
+ls
+cd home/
+ls
+cd ..
+cd tmp/
+ls
+exit
+ssh remote-user@remote-host
+exit
+ssh remote_user@remote-host
+exit
